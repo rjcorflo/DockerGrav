@@ -1,2 +1,3 @@
 # Code contains application to deploy
 code/*
+!code/.gitkeep
